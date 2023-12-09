@@ -8,7 +8,7 @@ I am a full stack developer who loves React!
 
 * 🌍  I'm based in USA
 * 🖥️  See my portfolio at [My Portfolio](http://www.github.com/paulgorithms)
-* ✉️  You can contact me at [paulmartinez.career.com](mailto:paulmartinez.career.com)
+* ✉️  You can contact me at [paulmartinez.career@gmail.com](mailto:paulmartinez.career@gmail.com)
 * 🚀  I'm currently working on [AI Facial Recognition](http://aws-p-app1.bmwcenternet.com/bmw_mc_police/gallery/gallery.aspx)
 * 🧠  I'm learning AI prompting
 * 🤝  I'm open to collaborating on AI projects
